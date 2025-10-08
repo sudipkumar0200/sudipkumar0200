@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sudip Kumar</h1>
-<h3 align="center">I'm a Full-Stack Developer from India 🇮🇳, currently pursuing my BCA from the University of Lucknow. I specialize in building scalable web applications using MERN stack, with a strong focus on performance, security, and user experience.</h3>
+<h1 align="center">👋, I'm Sudip Kumar</h1>
+<h3 align="center">I'm a Full-Stack Developer from India, currently pursuing Online MCA from LPU . I specialize in building scalable web applications using MERN stack and python(fastAPI), with a strong focus on performance, security, and user experience.</h3>
 
 - 🌱 I’m currently learning **TanStack Query**
-
 - 👨‍💻 All of my projects are available at [https://www.sudipkumar.tech/](https://www.sudipkumar.tech/)
-
+- Check my other github profile for projects [https://github.com/Rookie0200/](https://github.com/Rookie0200/)
 - 📫 How to reach me **sudipkumar0200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
